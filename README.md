@@ -1,5 +1,5 @@
-# Hi, I’m Benny :technologist:![WRB_smart_white_blackBG_2300k-square](https://user-images.githubusercontent.com/32596430/155211273-c8092328-7a76-4bd2-a2a7-52c1eb98d3ad.png | width=100)
-
+# Hi, I’m Benny :technologist:
+<img src="https://user-images.githubusercontent.com/32596430/155211273-c8092328-7a76-4bd2-a2a7-52c1eb98d3ad.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 
 [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
