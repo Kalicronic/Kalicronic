@@ -1,6 +1,6 @@
-# Hi, I’m Benny :brain:
+# Hi, I’m Benny :technologist:
 
-A lot of education and self-study, with a lot of fun along the way, has brought me to my passion, programming. 
+A lot of education and self-study :brain:, with a lot of fun along the way, has brought me to my passion, programming. 
 Very supportive is my successfully completed studies with a Bachelor of engineering in telematics.
 I learned in C++ and Java. Privately, I also got into game development and discovered Unity with C# and Blender for myself.
 In my free time, I'm also into programming, gaming, skateboarding and playing guitar to expand my skills.
