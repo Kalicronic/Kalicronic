@@ -1,4 +1,4 @@
-# Hi, I’m Benny
+# Hi, I’m Benny :brain:
 
 A lot of education and self-study, with a lot of fun along the way, has brought me to my passion, programming. 
 Very supportive is my successfully completed studies with a Bachelor of engineering in telematics.
