@@ -1,4 +1,4 @@
-# Hi, I’m Benny :technologist:![WRB_smart_white_blackBG_2300k-square](https://user-images.githubusercontent.com/32596430/155211273-c8092328-7a76-4bd2-a2a7-52c1eb98d3ad.png)
+# Hi, I’m Benny :technologist:![WRB_smart_white_blackBG_2300k-square](https://user-images.githubusercontent.com/32596430/155211273-c8092328-7a76-4bd2-a2a7-52c1eb98d3ad.png | width=100)
 
 
 [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
